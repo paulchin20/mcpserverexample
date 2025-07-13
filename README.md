@@ -1,6 +1,6 @@
 # Installation Steps
 
-To install the `add_tool` MCP server, run the following command:
+To install the `add_tool` MCP server in Claude, add this to claude_desktop_config.json:
 
 ```json
 {
